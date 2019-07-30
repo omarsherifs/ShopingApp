@@ -2,7 +2,7 @@
 training shopping app developed with made with angular.
 
 
-##The App can: 
+The App can: 
 <br>
 1- view a list of recipes and information about it.<br>
 2- save your shopping list.<br>
