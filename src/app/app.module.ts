@@ -30,6 +30,7 @@ import { ShoppingListService } from './shopping-list/shoppingList.serive';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    AppRoutingModule
   ],
   providers: [ShoppingListService],
   bootstrap: [AppComponent]
